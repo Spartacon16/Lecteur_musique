@@ -1,0 +1,9 @@
+﻿  fonction_musique.c
+D:\simon\Documents\Polytech_Nice\VStudio\Lecteur_musique\fonction_musique.h(9,10): error C1083: Impossible d'ouvrir le fichier include : 'fmod.h' : No such file or directory
+  (compiler le fichier source '../fonction_musique.c')
+  
+  Main.c
+D:\simon\Documents\Polytech_Nice\VStudio\Lecteur_musique\fonction_musique.h(9,10): error C1083: Impossible d'ouvrir le fichier include : 'fmod.h' : No such file or directory
+  (compiler le fichier source '../Main.c')
+  
+  Génération de code en cours...
